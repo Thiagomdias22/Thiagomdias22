@@ -10,8 +10,9 @@ While I'm not programming, I like to play some games 🎮, watch movies 🎥 and
 
 ### :bulb: Knowledge in:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagomdias22&layout=compact)](https://github.com/Thiagomdias22/github-readme-stats)
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Thiagomdias22)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagomdias22&layout=compact&theme=gotham&show_icons=true)](https://github.com/Thiagomdias22/github-readme-stats)
+<br />
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Thiagomdias22&theme=react&show_icons=true)
 
 🌎 Reach me at:
 
