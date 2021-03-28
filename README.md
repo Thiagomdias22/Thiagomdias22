@@ -1,11 +1,11 @@
 <img align="right" src="https://user-images.githubusercontent.com/54639269/90529186-cf007f80-e149-11ea-81c1-619a2ff92183.png" width="370"/>
 
 
-### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+## Hi there 👋🏻
+
+My name is Thiago Moreira, I'm 21 years old and I'm Brazilian. I've been studying programming since 2017 and always looking for new challenges and opportunities, looking for improvements to my career.💻
+
+While I'm not programming, I like to play some games 🎮, watch movies 🎥 and series 📺, to read books 📚, and going out to see some awesome places.
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
 
