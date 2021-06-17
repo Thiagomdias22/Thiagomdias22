@@ -14,7 +14,7 @@ While I'm not programming, I like to play some games 🎮, watch movies 🎥 and
 <br />
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Thiagomdias22&theme=react&show_icons=true)
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Thiagomdias22/Thiagomdias22/blob/output/github-contribution-grid-snake.svg)
 
 🌎 Reach me at:
 
