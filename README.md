@@ -14,6 +14,11 @@ While I'm not programming, I like to play some games 🎮, watch movies 🎥 and
 <br />
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Thiagomdias22&theme=react&show_icons=true)
 
+<div style="display: inline">
+  <a href="https://github.com/Thiagomdias22">
+  <img src="https://github.com/Thiagomdias22/Thiagomdias22/blob/output/github-contribution-grid-snake.svg">
+</div>
+
 🌎 Reach me at:
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thiago-moreira-dias/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/thethiagomoreira/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100037632773791)
